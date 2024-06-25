@@ -1,4 +1,4 @@
-#Encurtador de URL com Flask e SQLite
+# Encurtador de URL com Flask e SQLite
 
 Este é um simples encurtador de URL desenvolvido usando Python com Flask e SQLite para armazenamento local. O projeto permite encurtar URLs longas para URLs curtas personalizadas.
 
